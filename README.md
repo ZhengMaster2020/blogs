@@ -21,7 +21,8 @@
 ### 工具学习
 + Webpack构建工具
 + Git版本管理工具
-1. [git常用命令]()
+1. [git常用命令](https://github.com/ZhengMaster2020/blogs/issues/5)
+2. [git使用过程遇到的问题](https://github.com/ZhengMaster2020/blogs/issues/8)
 ### 后端知识学习
 + Java
 + Node.js
