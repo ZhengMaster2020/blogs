@@ -21,8 +21,10 @@
 11. [js中的面向对象编程问题](https://github.com/ZhengMaster2020/blogs/issues/)
 12. [js中BOM和DOM使用](https://github.com/ZhengMaster2020/blogs/issues/)
 13. [js中对象复制中的深浅拷贝问题](https://github.com/ZhengMaster2020/blogs/issues/3)
-14. [es6中的新特性](https://github.com/ZhengMaster2020/blogs/issues/)
-15. [es6中的Pormise对象](https://github.com/ZhengMaster2020/blogs/issues/)
+14. [js解析器GoogleV8引擎](https://www.cnblogs.com/banyue/p/8686822.html)
+15. [js中的运行机制](https://juejin.im/post/5a62e142f265da3e2b16810f#heading-25)
+1. [es6中的新特性](https://github.com/ZhengMaster2020/blogs/issues/)
+1. [es6中的Pormise对象](https://github.com/ZhengMaster2020/blogs/issues/)
 
 ### HTML(5)/CSS(3)的学习
 1. [语义化标签以及常用标签](https://github.com/ZhengMaster2020/blogs/issues/1) 
