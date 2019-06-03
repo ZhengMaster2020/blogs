@@ -8,7 +8,21 @@
 
 
 ### JavaScript(es6)的学习
-1. [js中对象复制中的深浅拷贝问题](https://github.com/ZhengMaster2020/blogs/issues/3)
+1.  [js中历史版本和其特性](https://github.com/ZhengMaster2020/blogs/issues/3)
+2.  [js中变量，变量作用域，以及类型检查](https://github.com/ZhengMaster2020/blogs/issues/)
+3.  [js中函数以及相关方法的使用](https://github.com/ZhengMaster2020/blogs/issues/)
+4.  [js中数组以及相关方法的使用](https://github.com/ZhengMaster2020/blogs/issues/)
+5.  [js中对象以及相关方法的使用](https://github.com/ZhengMaster2020/blogs/issues/)
+6.  [js中数组以及相关方法的使用](https://github.com/ZhengMaster2020/blogs/issues/)
+7.  [js中的call,apply,bind方法](https://github.com/ZhengMaster2020/blogs/issues/)
+8.  [js中深入理解this上下文](https://github.com/ZhengMaster2020/blogs/issues/)
+9.  [js中深入理解函数的闭包问题](https://github.com/ZhengMaster2020/blogs/issues/)
+10. [js中对象的原型，原型链](https://github.com/ZhengMaster2020/blogs/issues/)
+11. [js中的面向对象编程问题](https://github.com/ZhengMaster2020/blogs/issues/)
+12. [js中BOM和DOM使用](https://github.com/ZhengMaster2020/blogs/issues/)
+13. [js中对象复制中的深浅拷贝问题](https://github.com/ZhengMaster2020/blogs/issues/3)
+14. [es6中的新特性](https://github.com/ZhengMaster2020/blogs/issues/)
+15. [es6中的Pormise对象](https://github.com/ZhengMaster2020/blogs/issues/)
 
 ### HTML(5)/CSS(3)的学习
 1. [语义化标签以及常用标签](https://github.com/ZhengMaster2020/blogs/issues/1) 
@@ -18,23 +32,26 @@
 ### 框架学习
 + React框架学习
 1. [React初体验](https://github.com/ZhengMaster2020/blogs/issues/4)
+2. [React的生命周期](https://github.com/ZhengMaster2020/blogs/issues/)
+3. [React的Virtual DOM原理](https://github.com/ZhengMaster2020/blogs/issues/)
+4. [Rudux的原理窥探](https://github.com/ZhengMaster2020/blogs/issues/4)
 ### 工具学习
 + Webpack构建工具
+1.
 + Git版本管理工具
-1. [git常用命令]()
+1. [git常用命令](https://github.com/ZhengMaster2020/blogs/issues/5)
+2. [git使用过程遇到的问题](https://github.com/ZhengMaster2020/blogs/issues/8)
 ### 后端知识学习
 + Java
+0. [面向对象三大特征：封装、继承、多态]()
+1. [java的类和对象](https://github.com/ZhengMaster2020/blogs/issues/)
+2. [java的继承和接口](https://github.com/ZhengMaster2020/blogs/issues/)
 + Node.js
-
-### 大学里的课程知识笔记
-
-+ 数据结构
-
-+ 操作系统
-
-+ 计算机网络
-
-+ 软件工程
+1. [Node的特点以及应用场景](https://github.com/ZhengMaster2020/blogs/issues/)
+2. [Node的特点以及应用场景](https://github.com/ZhengMaster2020/blogs/issues/)
+### js的数据结构和算法
+1. [冒泡排序](https://github.com/ZhengMaster2020/blogs/issues/)
+2. [快速排序](https://github.com/ZhengMaster2020/blogs/issues/)
 
 ### License
 ---
