@@ -28,7 +28,7 @@
 
 ### HTML(5)/CSS(3)的学习
 1. [语义化标签以及常用标签](https://github.com/ZhengMaster2020/blogs/issues/1) 
-2. [常见布局与权重](https://github.com/ZhengMaster2020/blogs/issues/2)
+2. [常见布局与权重(1)](https://github.com/ZhengMaster2020/blogs/issues/2)
 
 
 ### 框架学习
