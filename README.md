@@ -1,4 +1,4 @@
-# 个人博客网站：[zhegnmaster.org.cn](zhengmaster.org.cn)  
+# 个人博客网站：[zhengmaster.org.cn](https://zhengmaster.org.cn)  
 -----
 
 # ZhengMaster2020 学习笔记
