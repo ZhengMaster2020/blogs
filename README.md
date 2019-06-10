@@ -14,7 +14,7 @@
 ### JavaScript(es6)的学习
 1.  [js中历史版本和其特性](https://github.com/ZhengMaster2020/blogs/issues/9)
 2.  [js中变量，变量作用域，以及类型检查](https://github.com/ZhengMaster2020/blogs/issues/10)
-3.  [js中的函数](https://github.com/ZhengMaster2020/blogs/issues/11)
+3.  [js中的函数，分类，函数节流和防抖](https://github.com/ZhengMaster2020/blogs/issues/11)
 4.  [js中数组以及相关方法的使用](https://github.com/ZhengMaster2020/blogs/issues/)
 5.  [js中对象以及相关方法的使用](https://github.com/ZhengMaster2020/blogs/issues/)
 6.  [js中数组以及相关方法的使用](https://github.com/ZhengMaster2020/blogs/issues/)
